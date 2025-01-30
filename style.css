@@ -1,0 +1,36 @@
+body {
+            font-family: faculty-glyphic;
+            text-align: center;
+            color: ghostwhite;
+            background-image:url(https://img.freepik.com/premium-vector/isolated-math-lettering-with-mathematical-operators-math-class-concept-vector-illustration_112018-1803.jpg?semt=ais_hybrid);
+            background-repeat: no-repeat;
+            background-position-x: 400px;
+            background-position-y: 130px;
+        h1 {
+            background-color: lightblue;
+            color: darkslategrey;
+            padding: 20px;
+            border: 2px solid black;
+            width: 80%;
+            margin: auto;
+            margin-top: 20px;
+
+        }
+        .container {
+            border: 2px solid black;
+            padding: 10px;
+            width: 60%;
+            margin: auto;
+            background-color: lightblue;
+            color: black;
+            opacity: 90%;
+            margin-top: 50px;
+        }
+        button {
+            margin-top: 5px;
+            padding: 5px;
+        }
+        .answer {
+            display: none;
+            font-weight: bold;
+        }
