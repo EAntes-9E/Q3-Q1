@@ -34,3 +34,6 @@ body {
             display: none;
             font-weight: bold;
         }
+        footer {
+            color: black;       
+        }    
